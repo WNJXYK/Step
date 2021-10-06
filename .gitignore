@@ -1,0 +1,4 @@
+data/*
+files/*
+results/*
+!*/.gitkeep
