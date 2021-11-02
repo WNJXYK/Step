@@ -1,6 +1,6 @@
 # Step
 
-This is an pytorch implementation of `STEP: OOD Detection in the Presence of Limited In-Distribution Labeled Data`
+This is an pytorch implementation of `STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data`
 
 ## Requirements
 
